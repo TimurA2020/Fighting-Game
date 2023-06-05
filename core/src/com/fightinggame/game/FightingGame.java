@@ -2,7 +2,6 @@ package com.fightinggame.game;
 
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import com.badlogic.gdx.utils.ScreenUtils;
 import com.fightinggame.game.resources.Assets;
 import com.fightinggame.game.screens.MainScreen;
 
